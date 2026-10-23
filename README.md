@@ -57,7 +57,6 @@ I'm currently building my portfolio through academic assignments and personal pr
 
 As I develop new projects, I'll document them here with their purpose, technologies, and instructions for running them.
 
-[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZevinFK/Gerenciador-de-estoque)
 
 More projects will be added as I continue learning and building.
 
