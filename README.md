@@ -42,3 +42,31 @@ My goal is to keep improving, build useful things and eventually contribute to t
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Currently Learning
+
+- **Programming:** Python, Java and C
+- **Web Development:** HTML and CSS
+- **Databases:** SQL and relational database concepts
+- **Tools:** Git and GitHub
+- **Exploring:** Cybersecurity
+
+## Projects
+
+### Gerenciador de Estoque
+
+A project developed to practice programming and apply concepts learned during my studies.
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZevinFK/Gerenciador-de-estoque)
+
+More projects will be added as I continue learning and building.
+
+## GitHub Statistics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZevinFK&layout=donut&theme=transparent&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZevinFK&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-ZevinFK-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZevinFK)
