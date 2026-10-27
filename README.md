@@ -53,12 +53,13 @@ My goal is to keep improving, build useful things and eventually contribute to t
 
 ## Projects
 
-I'm currently building my portfolio through academic assignments and personal projects.
+### 🌡️ Temperatura
 
-As I develop new projects, I'll document them here with their purpose, technologies, and instructions for running them.
+A personal project developed to practice programming and apply concepts learned through hands-on coding.
 
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZevinFK/Temperatura)
 
-More projects will be added as I continue learning and building.
+More projects coming soon.
 
 ## GitHub Statistics
 
