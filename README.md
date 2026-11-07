@@ -53,6 +53,14 @@ My goal is to keep improving, build useful things and eventually contribute to t
 
 ## Projects
 
+### ⏰ TimeClock
+
+An academic group project focused on employee attendance management, using a relational database to organize companies, users and work time records.
+
+**Technologies:** HTML5, CSS3, MySQL and Node.js (integration in progress).
+
+[![View Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZevinFK/TimeClock)
+
 ### 🌡️ Temperatura
 
 A personal project developed to practice programming and apply concepts learned through hands-on coding.
@@ -63,9 +71,9 @@ More projects coming soon.
 
 ## GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZevinFK&layout=donut&theme=transparent&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ZevinFK&layout=compact&theme=github_dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZevinFK&show_icons=true&theme=transparent&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ZevinFK&show_icons=true&theme=github_dark&hide_border=true)
 
 ## Connect
 
